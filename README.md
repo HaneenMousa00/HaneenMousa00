@@ -4,12 +4,10 @@
   <h1>Haneen Sbeah</h1>
 
   <!-- النص المتحرك (Typing Effect) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=From+understanding+life+to+understanding+code+%F0%9F%A7%AC;Software+Development+Student+%40+42+Amman;Curiosity+%E2%86%92+Understanding+%E2%86%92+Building" alt="Typing SVG" />
-  </a>
-
-  <p><i>Exploring the logic behind software, one concept at a time.</i></p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Haneen%20Sbeah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20understanding%20life%20to%20understanding%20code%20%F0%9F%A7%AC&descAlignY=62&descSize=18" width="100%" />
+  
+  <p><code>Curiosity → Understanding → Building</code></p>
 </div>
 
 ---
