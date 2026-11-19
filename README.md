@@ -2,7 +2,7 @@
   <h1>Haneen Sbeah</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%3E+From+understanding+life+to+understanding+code+%F0%9F%A7%AC;%3E+Curiosity+%E2%86%92+Understanding+%E2%86%92+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%3E+From+understanding+life+to+understanding+code;%3E+Curiosity+%E2%86%92+Understanding+%E2%86%92+Building" alt="Typing SVG" />
   </a>
 </div>
 
