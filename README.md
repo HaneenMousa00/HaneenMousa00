@@ -6,8 +6,6 @@
   </a>
 </div>
 
----
-
 ## About Me
 
 My academic background is in Biology, where I developed an interest in understanding how complex systems work.
