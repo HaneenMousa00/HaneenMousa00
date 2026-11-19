@@ -1,23 +1,11 @@
 <div align="center">
-
-  <!-- الاسم بلون مميز وحجم كبير -->
   <h1>Haneen Sbeah</h1>
 
-  <!-- النص المتحرك (Typing Effect) -->
-<div align="center">
-  <h1>👩🏻‍💻 Haneen Sbeah</h1>
-  <h3>From understanding life to understanding code 🧬</h3>
-  <p><i>Curiosity → Understanding → Building</i></p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/haneen-sbaih-b0866a330">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:65haneenmousa@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%3E+From+understanding+life+to+understanding+code+%F0%9F%A7%AC;%3E+Curiosity+%E2%86%92+Understanding+%E2%86%92+Building" alt="Typing SVG" />
+  </a>
 </div>
+
 ---
 
 ## About Me
