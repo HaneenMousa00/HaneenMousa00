@@ -1,18 +1,20 @@
-# 👋 Hi, I'm Haneen Sbeah
-
 <div align="center">
 
-### `Curiosity → Understanding → Building`
+  <!-- الاسم بلون مميز وحجم كبير -->
+  <h1>Haneen Sbeah</h1>
 
-**Software Development Student at 42 Amman | Biology Graduate**
+  <!-- النص المتحرك (Typing Effect) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=From+understanding+life+to+understanding+code+%F0%9F%A7%AC;Software+Development+Student+%40+42+Amman;Curiosity+%E2%86%92+Understanding+%E2%86%92+Building" alt="Typing SVG" />
+  </a>
 
-*Exploring the logic behind software, one concept at a time.*
+  <p><i>Exploring the logic behind software, one concept at a time.</i></p>
 
 </div>
 
 ---
 
-## 🧬 About Me
+## About Me
 
 My academic background is in Biology, where I developed an interest in understanding how complex systems work.
 
@@ -20,30 +22,37 @@ That curiosity eventually led me to software development, where I found another 
 
 I'm currently studying at **42 Amman**, building my programming foundations through hands-on projects, experimentation, and problem-solving.
 
-- 🎓 B.Sc. in Biological Sciences.
-- 💻 Software Development student at **42 Amman**.
-- 🔍 Interested in low-level programming and understanding how systems work.
-- 🧩 I enjoy breaking complex problems into smaller, understandable pieces.
+## Tech Stack & Tools
 
-## ⚙️ Tech Stack & Tools
+**Programming Languages:**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
 
-**Programming Languages**
+**Tools & Environment:**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white" alt="Makefile" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++98-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Data & Analytics:**
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
 
-**Tools & Environment**
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+##  Currently Exploring
 
-## 🌱 Currently Exploring
-
-- C++ and Object-Oriented Programming.
-- Unix systems and low-level programming.
-- Problem-solving through practical projects.
+* **C++** and Object-Oriented Programming (OOP).
+* **Computer Networking** fundamentals & protocols.
+* **Unix systems**, graphics (raycasting), and low-level memory management.
 
 ## 💡 How I Like to Learn
 
