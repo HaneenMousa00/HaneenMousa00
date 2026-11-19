@@ -1,8 +1,8 @@
 <div align="center">
-  <h3><big><big>Haneen Sbeah</big></big></h3>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1&pause=999999&color=F8FAFC&center=true&vCenter=true&width=500&height=50&lines=Haneen+Sbeah" alt="Haneen Sbeah" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%3E+From+understanding+life+to+understanding+code;%3E+Curiosity+%E2%86%92+Understanding+%E2%86%92+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=4ADE80&center=true&vCenter=true&width=750&height=45&lines=%3E+From+understanding+life+to+understanding+code;%3E+Curiosity+%E2%86%92+Understanding+%E2%86%92+Building" alt="Typing SVG" />
   </a>
 </div>
 
