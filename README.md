@@ -1,5 +1,4 @@
-<div align="center">
-  <h1>Haneen Sbeah</h1>
+<h1 align="center">Haneen Sbeah</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%3E+From+understanding+life+to+understanding+code;%3E+Curiosity+%E2%86%92+Understanding+%E2%86%92+Building" alt="Typing SVG" />
@@ -46,7 +45,7 @@ I'm currently studying at **42 Amman**, building my programming foundations thro
 * **Computer Networking** fundamentals & protocols.
 * **Unix systems**, graphics (raycasting), and low-level memory management.
 
-## 💡 How I Like to Learn
+## How I Like to Learn
 
 I believe understanding *why* something works is just as important as knowing *how* to use it.
 
@@ -57,8 +56,6 @@ I enjoy exploring different approaches, asking questions, and learning from the 
 <div align="center">
 
 ### Still learning. Still building. Always curious.
-
-📍 Amman, Jordan
 
 </div>
 
